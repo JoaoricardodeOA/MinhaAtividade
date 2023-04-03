@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Minha Atividade</string>
+    <string name="user">Usuário</string>
+    <string name="password">Senha</string>
+    <string name="button">Entrar</string>
+    <string name="msgError">Não autenticado</string>
+    <string name="about">Sobre</string>
+    <string name="aboutTitle">Somos um app em busca de um Recife mais saudável.</string>
+</resources>

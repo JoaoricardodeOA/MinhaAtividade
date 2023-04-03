@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Minha Atividade</string>
+    <string name="user">User</string>
+    <string name="password">Password</string>
+    <string name="button">Login</string>
+    <string name="msgError">Not authenticated</string>
+    <string name="about">About</string>
+    <string name="aboutTitle">We are an app looking for a healthier Recife.</string>
+</resources>
