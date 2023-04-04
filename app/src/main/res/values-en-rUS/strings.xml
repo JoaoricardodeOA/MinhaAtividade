@@ -6,5 +6,10 @@
     <string name="button">Login</string>
     <string name="msgError">Not authenticated</string>
     <string name="about">About</string>
-    <string name="aboutTitle">We are an app looking for a healthier Recife.</string>
+    <string name="jaqueira">Jaqueira\'s park</string>
+    <string name="aboutTitle">We are an app looking for a healthier Recife. We show places to exercise here.</string>
+    <string name="recife">Recife Image</string>
+    <string name="trezeDeMaio">Treze de maio\`s park</string>
+    <string name="intro">Hello dear </string>
+    <string name="intro2">wellcome to the most "recifense" app of the world</string>
 </resources>

@@ -14,9 +14,8 @@ class LazerActivity : AppCompatActivity() {
 
         val bt = binding.button2
         val usuarioNome = binding.textView2
-        val nome = intent.getStringExtra("user")
-        usuarioNome.text = "Olá meu amig@ "+nome + " seja bem vindo ao app de exercício mais recifense em linha reta"
-
+        val nome = " "+intent.getStringExtra("user")+"! "
+        usuarioNome.text = getString(R.string.intro) + nome + getString(R.string.intro2)
         bt.setOnClickListener {
             val intent = Intent(this, AboutActivity::class.java)
             startActivity(intent)
