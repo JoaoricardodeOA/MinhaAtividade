@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "984581687294",
+    "project_id": "minhaatividade-8b9b5",
+    "storage_bucket": "minhaatividade-8b9b5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:984581687294:android:baa90596141fc049b5a2af",
+        "android_client_info": {
+          "package_name": "com.example.minhaatividade"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "984581687294-n9fem39rd55tclpg5ltff6tcghcfc4dv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjjix63MqAAxeIerMScHzLKPTqCglcE6Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "984581687294-n9fem39rd55tclpg5ltff6tcghcfc4dv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
