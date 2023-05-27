@@ -12,4 +12,10 @@
     <string name="trezeDeMaio">Treze de maio\`s park</string>
     <string name="intro">Hello dear </string>
     <string name="intro2">wellcome to the most "recifense" app of the world</string>
+    <string name="cadastro">Register places to exercise</string>
+    <string name="botao_lugares">places</string>
+    <string name="nome_do_local">place name</string>
+    <string name="bairro">neighborhood</string>
+    <string name="descrição">description</string>
+    <string name="botao_cadastro">send</string>
 </resources>
